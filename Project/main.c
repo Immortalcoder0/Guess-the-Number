@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include<stdlib.h>
 #include<time.h>
+#include<conio.h>
 
 int main()
 {
@@ -30,5 +31,9 @@ int main()
 
     printf("You guesssed the number right in %d guesses", no_of_guess);
     
+    char a;
+    a=getch();
     return 0;
+    getch();
+
 }
