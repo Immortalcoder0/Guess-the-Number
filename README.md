@@ -19,7 +19,7 @@ The Number Guessing Game demonstrates:
    ```  
 2. Navigate to the project directory:  
    ```bash  
-   cd number-guessing-game  
+   cd Guess-the-Number/Project/  
    ```  
 3. Compile the code:  
    ```bash  
